@@ -1,4 +1,4 @@
-module rpwg
+module rpg
 
 go 1.22.2
 
