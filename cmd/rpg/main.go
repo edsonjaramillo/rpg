@@ -36,8 +36,8 @@ func GetNumberFromArgs() int {
 		}
 	}
 
-	// Default to 12 if no valid argument was provided
-	return 12
+	// Default to 16 if no valid argument was provided
+	return 16
 }
 
 // Snv8Q59q1*e3w*VS KjuHF66ruYualybr

@@ -3,7 +3,7 @@ This is a simple command-line application written in Go that generates a random 
 
 
 ## How it works
-When you run the application, it generates a random password of a specified length. The length is determined by a command-line argument. **If no argument is provided or the argument is not a positive integer, the length defaults to ```12```.**
+When you run the application, it generates a random password of a specified length. The length is determined by a command-line argument. **If no argument is provided or the argument is not a positive integer, the length defaults to ```16```.**
 
 The generated password is then copied to the clipboard using the ```atotto/clipboard``` package.
 
